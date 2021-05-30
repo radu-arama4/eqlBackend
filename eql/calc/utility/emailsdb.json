@@ -1,0 +1,87 @@
+[
+  {
+    "metadata": {
+      "id": "10192318231f",
+      "date": "2021-04-14T18:25:43.511Z",
+      "read": "true",
+      "forwarded": "false",
+      "folder": "default"
+    },
+    "header": {
+      "to": "moldcell@gmail.com",
+      "from": "borea@yahoo.com",
+      "cc": "personal@gmail.com",
+      "subject": "Accounting details"
+    },
+    "body": {
+      "content": "This could be a message.",
+      "attachments": [
+        "review.pdf",
+        "prices.xls"
+      ]
+    }
+  },
+  {
+    "metadata": {
+      "id": "10192318232f",
+      "date": "2012-04-23T18:25:43.511Z",
+      "read": "false",
+      "forwarded": "false",
+      "folder": "job"
+    },
+    "header": {
+      "to": "",
+      "from": "borea@yahoo.com",
+      "cc": "personal@gmail.com",
+      "subject": "Accounting details"
+    },
+    "body": {
+      "content": "test",
+      "attachments": [
+        "review.pdf",
+        "prices.xls"
+      ]
+    }
+  },
+  {
+    "metadata": {
+      "id": "10192318233f",
+      "date": "2012-04-23T18:25:43.511Z",
+      "read": "true",
+      "forwarded": "false",
+      "folder": "default"
+    },
+    "header": {
+      "to": "",
+      "from": "jora@yahoo.com",
+      "cc": "personal@gmail.com",
+      "subject": "Accounting details"
+    },
+    "body": {
+      "content": "test",
+      "attachments": []
+    }
+  },
+  {
+    "metadata": {
+      "id": "10192318234f",
+      "date": "2012-04-23T18:25:43.511Z",
+      "read": "false",
+      "forwarded": "true",
+      "folder": "spam"
+    },
+    "header": {
+      "to": "orange@yahoo.com",
+      "from": "",
+      "cc": "test@gmail.com",
+      "subject": "test"
+    },
+    "body": {
+      "content": "Just test this.",
+      "attachments": [
+        "review.pdf",
+        "prices.xls"
+      ]
+    }
+  }
+]
